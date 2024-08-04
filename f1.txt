@@ -1,5 +1,9 @@
+
+ 
+
 hi this is f1.txt modififed by main
 html,
+
         body {
             height: 100%;
             width: 100%;
@@ -68,10 +72,16 @@ html,
             margin-right: 10px;
         }
 
+		
+
+
+
 		.step-text a {
             color: white;
 			text-decoration: none;
         }
+		
+
 
 		.step-text a:hover {
             color: white;
